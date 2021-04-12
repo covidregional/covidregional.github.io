@@ -10,7 +10,7 @@
 
 .header {
     width: 100%;
-    height: 45vh;
+    height: 60vh;
     z-index: 200px;
     background-image: url('../../images/banner.jpeg');
     background-size: cover;
@@ -18,7 +18,7 @@
 
 .header>.title__header {
     width: 100%;
-    height: 90%;
+    height: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
