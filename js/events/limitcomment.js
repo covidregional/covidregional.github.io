@@ -1,1 +1,0 @@
-const limitComment=()=>{let t=500-$(".input__comment").val().length;$("#qtd_caracteres").html(t),0==$("#qtd_caracteres").html()?($("#qtd_caracteres").css("color","rgb(216, 60, 60)"),$("#qtd_caracteres").css("border","5px solid rgb(216, 60, 60)")):($("#qtd_caracteres").css("color","#1da584"),$("#qtd_caracteres").css("border","5px solid #1da584"))};
